@@ -68,13 +68,13 @@ extractor.start();
 
 
 ## Examples
-See (/example/)[https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main] for an an example usage.
+See [/example/](https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main) for an an example usage.
 
 This example extracts some of the names of quick setting tiles in the Android notification shade using resources from AOSP.
 
-These resources are simply copied and pasted in this example in the (resources directory)[https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main/resources/android_resources].
+These resources are simply copied and pasted in this example in the [resources directory](https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main/resources/android_resources).
 
-(Here)[https://github.com/tombayley/AndroidResExtractor/blob/master/example/src/main/java/com/tombayley/androidresextractorexample/MyExtractor.java]
+[Here](https://github.com/tombayley/AndroidResExtractor/blob/master/example/src/main/java/com/tombayley/androidresextractorexample/MyExtractor.java)
 is the class used to configure and run the extractor.
 
 The string attribute id's of the quick setting tile names are added to the "stringsToExtract" map.
@@ -83,7 +83,7 @@ These are defined as the 'key' of each map entry.
 
 The 'value' of each map entry is the string attribute id you want to save each string as. In the example, "tile_label_" is prepended for consistency(since they are all tile labels).
 
-After finishing setting up the builder and running the program, it produces (this output)[https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main/resources/output].
+After finishing setting up the builder and running the program, it produces [this output](https://github.com/tombayley/AndroidResExtractor/tree/master/example/src/main/resources/output).
 Have a look in some directories and files. You can see the desired AOSP string values have been extracted and saved using new attribute id's.
 
 
