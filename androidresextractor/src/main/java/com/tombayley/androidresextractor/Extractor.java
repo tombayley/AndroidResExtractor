@@ -139,6 +139,8 @@ public class Extractor {
         } catch (IOException | ParserConfigurationException | TransformerException e) {
             e.printStackTrace();
         }
+
+        print("DONE");
     }
 
     /**
