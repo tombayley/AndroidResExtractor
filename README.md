@@ -1,6 +1,6 @@
 # Android Res Extractor
 
-
+[![](https://jitpack.io/v/tombayley/AndroidResExtractor.svg)](https://jitpack.io/#tombayley/AndroidResExtractor)
 
 A library to filter and extract Android resources from all locales (only supports strings at this current time).
 

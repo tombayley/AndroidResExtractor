@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation project(':androidresextractor')
+    implementation 'com.github.tombayley.AndroidResExtractor:androidresextractor:1.0.0'
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
