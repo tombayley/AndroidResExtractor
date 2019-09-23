@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ໂໝດເຮືອ​ບິນ"</string>
+    <string name="tile_label_data_saver">"ຕົວປະຢັດອິນເຕີເນັດ"</string>
+    <string name="tile_label_location">"ສະຖານທີ່"</string>
+    <string name="tile_label_hotspot">"​ຮັອດ​ສະ​ປອດ"</string>
+    <string name="tile_label_location_off">"ຂໍ້ມູນສະຖານທີ່ປິດຢູ່"</string>
+    <string name="tile_label_battery_saver">"ຕົວປະຢັດ​ແບັດເຕີຣີ"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"ອິນເຕີເນັດມືຖື"</string>
+    <string name="tile_label_invert_colors">"ສະຫຼັບສີ"</string>
+</resources>

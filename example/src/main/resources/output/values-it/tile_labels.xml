@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Modalità aereo"</string>
+    <string name="tile_label_data_saver">"Risparmio dati"</string>
+    <string name="tile_label_location">"Geolocalizz."</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Geolocalizz. non attiva"</string>
+    <string name="tile_label_battery_saver">"Risparmio energetico"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Dati mobili"</string>
+    <string name="tile_label_invert_colors">"Inverti colori"</string>
+</resources>

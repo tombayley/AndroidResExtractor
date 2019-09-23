@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Repülős üzemmód"</string>
+    <string name="tile_label_data_saver">"Adatforgalom-csökkentő"</string>
+    <string name="tile_label_location">"Tartózkodási hely"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Hely kikapcsolva"</string>
+    <string name="tile_label_battery_saver">"Akkumulátorkímélő mód"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobiladatok"</string>
+    <string name="tile_label_invert_colors">"Színek invertálása"</string>
+</resources>

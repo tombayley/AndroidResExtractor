@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Parvoz rejimi"</string>
+    <string name="tile_label_data_saver">"Trafik tejash"</string>
+    <string name="tile_label_location">"Joylashuv"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Joylashuvni aniqlash xizmati yoqilmagan"</string>
+    <string name="tile_label_battery_saver">"Quvvat tejash rejimi"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobil internet"</string>
+    <string name="tile_label_invert_colors">"Teskari ranglar"</string>
+</resources>

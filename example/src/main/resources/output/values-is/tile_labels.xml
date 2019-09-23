@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Flugstilling"</string>
+    <string name="tile_label_data_saver">"Gagnasparnaður"</string>
+    <string name="tile_label_location">"Staðsetning"</string>
+    <string name="tile_label_hotspot">"Heitur reitur"</string>
+    <string name="tile_label_location_off">"Staðsetning óvirk"</string>
+    <string name="tile_label_battery_saver">"Rafhlöðusparnaður"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Farsímagögn"</string>
+    <string name="tile_label_invert_colors">"Umsnúa litum"</string>
+</resources>

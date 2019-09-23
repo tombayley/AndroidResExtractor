@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_location">"অৱস্থান"</string>
+    <string name="tile_label_hotspot">"হটস্পট"</string>
+    <string name="tile_label_location_off">"অৱস্থান অফ"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"ম\'বাইল ডেটা"</string>
+    <string name="tile_label_invert_colors">"ৰং ওলোটা কৰক"</string>
+</resources>

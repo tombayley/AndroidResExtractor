@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"מצב טיסה"</string>
+    <string name="tile_label_data_saver">"‏חוסך הנתונים (Data Saver)"</string>
+    <string name="tile_label_location">"מיקום"</string>
+    <string name="tile_label_hotspot">"נקודה לשיתוף אינטרנט"</string>
+    <string name="tile_label_location_off">"מיקום כבוי"</string>
+    <string name="tile_label_battery_saver">"חיסכון בסוללה"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"נתונים סלולריים"</string>
+    <string name="tile_label_invert_colors">"היפוך צבעים"</string>
+</resources>

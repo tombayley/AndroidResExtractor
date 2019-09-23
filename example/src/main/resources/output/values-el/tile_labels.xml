@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Λειτουργία πτήσης"</string>
+    <string name="tile_label_data_saver">"Εξοικονόμηση δεδομένων"</string>
+    <string name="tile_label_location">"Τοποθεσία"</string>
+    <string name="tile_label_hotspot">"Σημείο πρόσβασης Wi-Fi"</string>
+    <string name="tile_label_location_off">"Τοποθεσία απενεργοποιημένη"</string>
+    <string name="tile_label_battery_saver">"Εξοικονόμηση μπαταρίας"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Δεδομένα κινητής τηλεφωνίας"</string>
+    <string name="tile_label_invert_colors">"Αντιστροφή χρωμάτων"</string>
+</resources>

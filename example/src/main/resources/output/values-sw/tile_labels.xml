@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Hali ya ndegeni"</string>
+    <string name="tile_label_data_saver">"Kiokoa Data"</string>
+    <string name="tile_label_location">"Kutambua Eneo"</string>
+    <string name="tile_label_hotspot">"Mtandao-hewa"</string>
+    <string name="tile_label_location_off">"Kitambua eneo kimezimwa"</string>
+    <string name="tile_label_battery_saver">"Kiokoa Betri"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Data ya simu"</string>
+    <string name="tile_label_invert_colors">"Pindua rangi"</string>
+</resources>

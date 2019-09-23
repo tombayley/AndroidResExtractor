@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"એરપ્લેન મોડ"</string>
+    <string name="tile_label_data_saver">"ડેટા સેવર"</string>
+    <string name="tile_label_location">"સ્થાન"</string>
+    <string name="tile_label_hotspot">"હૉટસ્પૉટ"</string>
+    <string name="tile_label_location_off">"સ્થાન બંધ"</string>
+    <string name="tile_label_battery_saver">"બૅટરી સેવર"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"મોબાઇલ ડેટા"</string>
+    <string name="tile_label_invert_colors">"રંગોને ઉલટાવો"</string>
+</resources>

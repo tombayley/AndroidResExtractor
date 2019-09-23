@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Tryb samolotowy"</string>
+    <string name="tile_label_data_saver">"Oszczędzanie danych"</string>
+    <string name="tile_label_location">"Lokalizacja"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Lokalizacja wyłączona"</string>
+    <string name="tile_label_battery_saver">"Oszczędzanie baterii"</string>
+    <string name="tile_label_nfc">"Komunikacja NFC"</string>
+    <string name="tile_label_mobile_data">"Komórkowa transmisja danych"</string>
+    <string name="tile_label_invert_colors">"Odwróć kolory"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ଏରୋପ୍ଲେନ୍‍ ମୋଡ୍"</string>
+    <string name="tile_label_location">"ଲୋକେଶନ୍‍"</string>
+    <string name="tile_label_hotspot">"ହଟସ୍ପଟ୍‌"</string>
+    <string name="tile_label_location_off">"ଲୋକେଶନ୍‍ ଅଫ୍‍"</string>
+    <string name="tile_label_invert_colors">"ରଙ୍ଗ ପୂର୍ବପରି କରନ୍ତୁ"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Chế độ máy bay"</string>
+    <string name="tile_label_data_saver">"Trình tiết kiệm dữ liệu"</string>
+    <string name="tile_label_location">"Vị trí"</string>
+    <string name="tile_label_hotspot">"Điểm phát sóng"</string>
+    <string name="tile_label_location_off">"Tắt vị trí"</string>
+    <string name="tile_label_battery_saver">"Trình tiết kiệm pin"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Dữ liệu di động"</string>
+    <string name="tile_label_invert_colors">"Đảo ngược màu"</string>
+</resources>

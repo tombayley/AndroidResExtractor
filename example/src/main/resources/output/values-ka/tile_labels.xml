@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"თვითმფრინავის რეჟიმი"</string>
+    <string name="tile_label_data_saver">"მონაცემთა დამზოგველი"</string>
+    <string name="tile_label_location">"მდებარეობა"</string>
+    <string name="tile_label_hotspot">"წვდომის წერტილი"</string>
+    <string name="tile_label_location_off">"მდებარეობა გამორთულია"</string>
+    <string name="tile_label_battery_saver">"ბატარეის დამზოგი"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"მობილური ინტერნეტი"</string>
+    <string name="tile_label_invert_colors">"ფერების შებრუნება"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Mode pesawat"</string>
+    <string name="tile_label_data_saver">"Penghemat Kuota"</string>
+    <string name="tile_label_location">"Lokasi"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Lokasi Nonaktif"</string>
+    <string name="tile_label_battery_saver">"Penghemat Baterai"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Data seluler"</string>
+    <string name="tile_label_invert_colors">"Inversi warna"</string>
+</resources>

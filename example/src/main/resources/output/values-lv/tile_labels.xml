@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Lidojuma režīms"</string>
+    <string name="tile_label_data_saver">"Datu lietojuma samazinātājs"</string>
+    <string name="tile_label_location">"Atrašanās vieta"</string>
+    <string name="tile_label_hotspot">"Tīklājs"</string>
+    <string name="tile_label_location_off">"Atrašanās vieta izslēgta"</string>
+    <string name="tile_label_battery_saver">"Akumulatora jaudas taupīšanas režīms"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobilie dati"</string>
+    <string name="tile_label_invert_colors">"Invertēt krāsas"</string>
+</resources>

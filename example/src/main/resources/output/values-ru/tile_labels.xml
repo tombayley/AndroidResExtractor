@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Режим полета"</string>
+    <string name="tile_label_data_saver">"Экономия трафика"</string>
+    <string name="tile_label_location">"Передача геоданных"</string>
+    <string name="tile_label_hotspot">"Точка доступа"</string>
+    <string name="tile_label_location_off">"Местоположение выкл."</string>
+    <string name="tile_label_battery_saver">"Режим энергосбережения"</string>
+    <string name="tile_label_nfc">"Модуль NFC"</string>
+    <string name="tile_label_mobile_data">"Моб. Интернет"</string>
+    <string name="tile_label_invert_colors">"Обратные цвета"</string>
+</resources>

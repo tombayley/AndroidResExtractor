@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Lėktuvo režimas"</string>
+    <string name="tile_label_data_saver">"Duomenų taupymo pr."</string>
+    <string name="tile_label_location">"Vietovė"</string>
+    <string name="tile_label_hotspot">"Viešosios interneto prieigos taškas"</string>
+    <string name="tile_label_location_off">"Vietovė išjungta"</string>
+    <string name="tile_label_battery_saver">"Akumuliat. taus. pr."</string>
+    <string name="tile_label_nfc">"ALR"</string>
+    <string name="tile_label_mobile_data">"Mobilieji duomenys"</string>
+    <string name="tile_label_invert_colors">"Pakeisti spalvas"</string>
+</resources>

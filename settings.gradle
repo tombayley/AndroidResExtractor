@@ -1,0 +1,3 @@
+include 'example', 'androidresextractor'
+
+findProject(':example')?.name = 'androidresextractorexample'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"وضع الطائرة"</string>
+    <string name="tile_label_data_saver">"توفير البيانات"</string>
+    <string name="tile_label_location">"الموقع الجغرافي"</string>
+    <string name="tile_label_hotspot">"نقطة اتصال"</string>
+    <string name="tile_label_location_off">"الموقع قيد الإيقاف"</string>
+    <string name="tile_label_battery_saver">"توفير شحن البطارية"</string>
+    <string name="tile_label_nfc">"‏الاتصال القريب المدى (NFC)"</string>
+    <string name="tile_label_mobile_data">"بيانات الجوّال"</string>
+    <string name="tile_label_invert_colors">"قلب الألوان"</string>
+</resources>

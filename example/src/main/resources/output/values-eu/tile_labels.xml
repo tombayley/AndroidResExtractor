@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Hegaldi modua"</string>
+    <string name="tile_label_data_saver">"Datu-aurrezlea"</string>
+    <string name="tile_label_location">"Kokapena"</string>
+    <string name="tile_label_hotspot">"Sare publikoa"</string>
+    <string name="tile_label_location_off">"Kokapena desaktibatuta"</string>
+    <string name="tile_label_battery_saver">"Bateria-aurrezlea"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Datu-konexioa"</string>
+    <string name="tile_label_invert_colors">"Alderantzikatu koloreak"</string>
+</resources>

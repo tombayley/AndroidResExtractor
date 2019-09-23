@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Način rada u avionu"</string>
+    <string name="tile_label_data_saver">"Ušteda podataka"</string>
+    <string name="tile_label_location">"Lokacija"</string>
+    <string name="tile_label_hotspot">"Pristupna tačka"</string>
+    <string name="tile_label_location_off">"Utvrđivanje lokacije isključeno"</string>
+    <string name="tile_label_battery_saver">"Ušteda baterije"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Prijenos podataka"</string>
+    <string name="tile_label_invert_colors">"Inverzija boja"</string>
+</resources>

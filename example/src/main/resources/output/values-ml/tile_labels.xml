@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ഫ്ലൈറ്റ് മോഡ്"</string>
+    <string name="tile_label_data_saver">"ഡാറ്റ സേവർ"</string>
+    <string name="tile_label_location">"ലൊക്കേഷൻ"</string>
+    <string name="tile_label_hotspot">"ഹോട്ട്‌സ്‌പോട്ട്"</string>
+    <string name="tile_label_location_off">"ലൊക്കേഷൻ ഓഫാണ്"</string>
+    <string name="tile_label_battery_saver">"ബാറ്ററി ലാഭിക്കൽ"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"മൊബൈൽ ഡാറ്റ"</string>
+    <string name="tile_label_invert_colors">"നിറം മാറ്റുക"</string>
+</resources>

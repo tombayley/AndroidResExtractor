@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Нислэгийн горим"</string>
+    <string name="tile_label_data_saver">"Дата хэмнэгч"</string>
+    <string name="tile_label_location">"Байршил"</string>
+    <string name="tile_label_hotspot">"Сүлжээний цэг"</string>
+    <string name="tile_label_location_off">"Байршил идэвхгүй"</string>
+    <string name="tile_label_battery_saver">"Батарей хэмнэгч"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Мобайл дата"</string>
+    <string name="tile_label_invert_colors">"Өнгийг урвуулах"</string>
+</resources>

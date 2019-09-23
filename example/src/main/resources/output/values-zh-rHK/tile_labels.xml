@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"飛行模式"</string>
+    <string name="tile_label_data_saver">"數據節省模式"</string>
+    <string name="tile_label_location">"位置資訊"</string>
+    <string name="tile_label_hotspot">"熱點"</string>
+    <string name="tile_label_location_off">"位置資訊已關閉"</string>
+    <string name="tile_label_battery_saver">"省電模式"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"流動數據"</string>
+    <string name="tile_label_invert_colors">"反轉顏色"</string>
+</resources>

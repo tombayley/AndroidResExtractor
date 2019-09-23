@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Vliegtuigmodus"</string>
+    <string name="tile_label_data_saver">"Databespaarder"</string>
+    <string name="tile_label_location">"Ligging"</string>
+    <string name="tile_label_hotspot">"Warmkol"</string>
+    <string name="tile_label_location_off">"Ligging af"</string>
+    <string name="tile_label_battery_saver">"Batterybespaarder"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobiele data"</string>
+    <string name="tile_label_invert_colors">"Keer kleure om"</string>
+</resources>

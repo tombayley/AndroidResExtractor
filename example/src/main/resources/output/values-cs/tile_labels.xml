@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Režim Letadlo"</string>
+    <string name="tile_label_data_saver">"Spořič dat"</string>
+    <string name="tile_label_location">"Poloha"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Poloha vypnuta"</string>
+    <string name="tile_label_battery_saver">"Spořič baterie"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobilní data"</string>
+    <string name="tile_label_invert_colors">"Převrátit barvy"</string>
+</resources>

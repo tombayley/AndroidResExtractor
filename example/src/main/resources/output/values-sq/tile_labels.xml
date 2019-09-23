@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Modaliteti i aeroplanit"</string>
+    <string name="tile_label_data_saver">"Kursyesi i të dhënave"</string>
+    <string name="tile_label_location">"Vendndodhja"</string>
+    <string name="tile_label_hotspot">"Qasje në zona publike interneti"</string>
+    <string name="tile_label_location_off">"Vendndodhja është e çaktivizuar"</string>
+    <string name="tile_label_battery_saver">"Kursyesi i baterisë"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Të dhënat celulare"</string>
+    <string name="tile_label_invert_colors">"Shkëmbe ngjyrat"</string>
+</resources>

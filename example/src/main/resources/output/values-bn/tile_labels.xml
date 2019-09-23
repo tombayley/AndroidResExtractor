@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"বিমান মোড"</string>
+    <string name="tile_label_data_saver">"ডেটা সেভার"</string>
+    <string name="tile_label_location">"লোকেশন"</string>
+    <string name="tile_label_hotspot">"হটস্পট"</string>
+    <string name="tile_label_location_off">"লোকেশন বন্ধ করা আছে"</string>
+    <string name="tile_label_battery_saver">"ব্যাটারি সেভার"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"মোবাইল ডেটা"</string>
+    <string name="tile_label_invert_colors">"বিপরীত রঙ"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Самолетен режим"</string>
+    <string name="tile_label_data_saver">"Икономия на данни"</string>
+    <string name="tile_label_location">"Местоположение"</string>
+    <string name="tile_label_hotspot">"Точка за достъп"</string>
+    <string name="tile_label_location_off">"Местоположението е изключено"</string>
+    <string name="tile_label_battery_saver">"Режим за запазване на батерията"</string>
+    <string name="tile_label_nfc">"КБП"</string>
+    <string name="tile_label_mobile_data">"Мобилни данни"</string>
+    <string name="tile_label_invert_colors">"Инвертиране на цветовете"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Учак режими"</string>
+    <string name="tile_label_data_saver">"Трафикти үнөмдөө"</string>
+    <string name="tile_label_location">"Жайгашкан жер"</string>
+    <string name="tile_label_hotspot">"Туташуу чекити"</string>
+    <string name="tile_label_location_off">"Жайгашытрууну өчүрүү"</string>
+    <string name="tile_label_battery_saver">"Батареяны үнөмдөгүч"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Мобилдик Интернет"</string>
+    <string name="tile_label_invert_colors">"Түстөрдү инверсиялоо"</string>
+</resources>

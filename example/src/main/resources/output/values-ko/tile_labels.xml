@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"비행기 모드"</string>
+    <string name="tile_label_data_saver">"데이터 절약 모드"</string>
+    <string name="tile_label_location">"위치"</string>
+    <string name="tile_label_hotspot">"핫스팟"</string>
+    <string name="tile_label_location_off">"위치 사용 중지"</string>
+    <string name="tile_label_battery_saver">"배터리 세이버"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"모바일 데이터"</string>
+    <string name="tile_label_invert_colors">"색상 반전"</string>
+</resources>

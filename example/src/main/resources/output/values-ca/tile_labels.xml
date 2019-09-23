@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Mode d\'avió"</string>
+    <string name="tile_label_data_saver">"Economitzador de dades"</string>
+    <string name="tile_label_location">"Ubicació"</string>
+    <string name="tile_label_hotspot">"Punt d\'accés Wi-Fi"</string>
+    <string name="tile_label_location_off">"Ubicació desactivada"</string>
+    <string name="tile_label_battery_saver">"Estalvi de bateria"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Dades mòbils"</string>
+    <string name="tile_label_invert_colors">"Inverteix els colors"</string>
+</resources>

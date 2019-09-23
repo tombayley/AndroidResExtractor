@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"የአውሮፕላን ሁነታ"</string>
+    <string name="tile_label_data_saver">"ውሂብ ቆጣቢ"</string>
+    <string name="tile_label_location">"አካባቢ"</string>
+    <string name="tile_label_hotspot">"መገናኛ ነጥብ"</string>
+    <string name="tile_label_location_off">"አካባቢ ጠፍቷል"</string>
+    <string name="tile_label_battery_saver">"ባትሪ ቆጣቢ"</string>
+    <string name="tile_label_nfc">"ኤንኤፍሲ"</string>
+    <string name="tile_label_mobile_data">"የተንቀሳቃሽ ስልክ ውሂብ"</string>
+    <string name="tile_label_invert_colors">"ቀለማትን ግልብጥ"</string>
+</resources>

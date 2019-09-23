@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ගුවන්යානා ප්‍රකාරය"</string>
+    <string name="tile_label_data_saver">"දත්ත සුරැකුම"</string>
+    <string name="tile_label_location">"ස්ථානය"</string>
+    <string name="tile_label_hotspot">"හොට්ස්පොට්"</string>
+    <string name="tile_label_location_off">"ස්ථානය අක්‍රියයි"</string>
+    <string name="tile_label_battery_saver">"බැටරි සුරැකුම"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"ජංගම දත්ත"</string>
+    <string name="tile_label_invert_colors">"වර්ණ යටිකුරු කරන්න"</string>
+</resources>

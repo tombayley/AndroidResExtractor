@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ہوائی جہاز وضع"</string>
+    <string name="tile_label_data_saver">"ڈیٹا سیور"</string>
+    <string name="tile_label_location">"مقام"</string>
+    <string name="tile_label_hotspot">"ہاٹ اسپاٹ"</string>
+    <string name="tile_label_location_off">"مقام آف"</string>
+    <string name="tile_label_battery_saver">"بیٹری سیور"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"موبائل ڈیٹا"</string>
+    <string name="tile_label_invert_colors">"رنگ پلٹیں"</string>
+</resources>

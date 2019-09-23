@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"လေယာဉ်ပေါ်သုံးစနစ်"</string>
+    <string name="tile_label_data_saver">"ဒေတာချွေတာမှု"</string>
+    <string name="tile_label_location">"တည်နေရာ"</string>
+    <string name="tile_label_hotspot">"ဟော့စပေါ့"</string>
+    <string name="tile_label_location_off">"တည်နေရာပြမှု မရှိ"</string>
+    <string name="tile_label_battery_saver">"ဘက်ထရီ အားထိန်း"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"မိုဘိုင်းဒေတာ"</string>
+    <string name="tile_label_invert_colors">"အရောင်များ ပြောင်းပြန်လုပ်ရန်"</string>
+</resources>

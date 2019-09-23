@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Uçak modu"</string>
+    <string name="tile_label_data_saver">"Veri Tasarrufu"</string>
+    <string name="tile_label_location">"Konum"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Konum Bilgisi Kapalı"</string>
+    <string name="tile_label_battery_saver">"Pil Tasarrufu"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobil veriler"</string>
+    <string name="tile_label_invert_colors">"Renkleri çevir"</string>
+</resources>

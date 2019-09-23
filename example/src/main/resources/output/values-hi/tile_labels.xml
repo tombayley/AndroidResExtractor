@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"हवाई जहाज़ मोड"</string>
+    <string name="tile_label_data_saver">"डेटा बचाने की सेटिंग"</string>
+    <string name="tile_label_location">"जगह"</string>
+    <string name="tile_label_hotspot">"हॉटस्पॉट"</string>
+    <string name="tile_label_location_off">"जगह की जानकारी बंद है"</string>
+    <string name="tile_label_battery_saver">"बैटरी सेवर"</string>
+    <string name="tile_label_nfc">"एनएफ़सी"</string>
+    <string name="tile_label_mobile_data">"मोबाइल डेटा"</string>
+    <string name="tile_label_invert_colors">"रंग उलटें"</string>
+</resources>

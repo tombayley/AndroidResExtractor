@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Imodi yendiza"</string>
+    <string name="tile_label_data_saver">"Iseva yedatha"</string>
+    <string name="tile_label_location">"Indawo"</string>
+    <string name="tile_label_hotspot">"I-Hotspot"</string>
+    <string name="tile_label_location_off">"Indawo ivaliwe"</string>
+    <string name="tile_label_battery_saver">"Isilondolozi sebhethri"</string>
+    <string name="tile_label_nfc">"I-NFC"</string>
+    <string name="tile_label_mobile_data">"Idatha yeselula"</string>
+    <string name="tile_label_invert_colors">"Faka imibala"</string>
+</resources>

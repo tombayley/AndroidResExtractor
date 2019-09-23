@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Airplane mode"</string>
+    <string name="tile_label_data_saver">"Data Saver"</string>
+    <string name="tile_label_location">"Lokasyon"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Naka-off ang Lokasyon"</string>
+    <string name="tile_label_battery_saver">"Pangtipid sa Baterya"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobile data"</string>
+    <string name="tile_label_invert_colors">"I-invert ang mga kulay"</string>
+</resources>

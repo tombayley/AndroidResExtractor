@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"機内モード"</string>
+    <string name="tile_label_data_saver">"データセーバー"</string>
+    <string name="tile_label_location">"現在地"</string>
+    <string name="tile_label_hotspot">"アクセスポイント"</string>
+    <string name="tile_label_location_off">"現在地OFF"</string>
+    <string name="tile_label_battery_saver">"バッテリー セーバー"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"モバイルデータ"</string>
+    <string name="tile_label_invert_colors">"色を反転"</string>
+</resources>

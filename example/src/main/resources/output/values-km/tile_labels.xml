@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"របៀបក្នុងយន្តហោះ"</string>
+    <string name="tile_label_data_saver">"កម្មវិធីសន្សំសំចៃទិន្នន័យ"</string>
+    <string name="tile_label_location">"ទី​តាំង​"</string>
+    <string name="tile_label_hotspot">"ហតស្ប៉ត"</string>
+    <string name="tile_label_location_off">"ទីតាំង​បាន​បិទ"</string>
+    <string name="tile_label_battery_saver">"កម្មវិធីសន្សំថ្ម"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"ទិន្នន័យ​ទូរសព្ទចល័ត"</string>
+    <string name="tile_label_invert_colors">"ដាក់​​​បញ្ច្រាស​ពណ៌"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"حالت هواپیما"</string>
+    <string name="tile_label_data_saver">"صرفه‌جویی داده"</string>
+    <string name="tile_label_location">"مکان"</string>
+    <string name="tile_label_hotspot">"نقطه اتصال"</string>
+    <string name="tile_label_location_off">"مکان خاموش"</string>
+    <string name="tile_label_battery_saver">"بهینه‌سازی باتری"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"داده تلفن همراه"</string>
+    <string name="tile_label_invert_colors">"برگردان رنگ‌ها"</string>
+</resources>

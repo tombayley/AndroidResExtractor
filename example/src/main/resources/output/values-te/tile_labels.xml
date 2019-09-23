@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"ఎయిర్‌ప్లేన్ మోడ్"</string>
+    <string name="tile_label_data_saver">"డేటా సేవర్"</string>
+    <string name="tile_label_location">"స్థానం"</string>
+    <string name="tile_label_hotspot">"హాట్‌స్పాట్"</string>
+    <string name="tile_label_location_off">"స్థానం ఆఫ్‌లో ఉంది"</string>
+    <string name="tile_label_battery_saver">"బ్యాటరీ సేవర్"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"మొబైల్ డేటా"</string>
+    <string name="tile_label_invert_colors">"రంగులను తారుమారు చేయి"</string>
+</resources>

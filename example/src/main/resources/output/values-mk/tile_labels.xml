@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Режим на работа во авион"</string>
+    <string name="tile_label_data_saver">"Штедач на интернет"</string>
+    <string name="tile_label_location">"Локација"</string>
+    <string name="tile_label_hotspot">"Точка на пристап"</string>
+    <string name="tile_label_location_off">"Исклучи локација"</string>
+    <string name="tile_label_battery_saver">"Штедач на батерија"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Мобилен интернет"</string>
+    <string name="tile_label_invert_colors">"Преврти ги боите"</string>
+</resources>

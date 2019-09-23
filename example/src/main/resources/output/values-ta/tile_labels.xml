@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"விமானப் பயன்முறை"</string>
+    <string name="tile_label_data_saver">"டேட்டா சேமிப்பான்"</string>
+    <string name="tile_label_location">"இருப்பிடம்"</string>
+    <string name="tile_label_hotspot">"ஹாட்ஸ்பாட்"</string>
+    <string name="tile_label_location_off">"இருப்பிடத்தை முடக்கு"</string>
+    <string name="tile_label_battery_saver">"பேட்டரி சேமிப்பான்"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"மொபைல் டேட்டா"</string>
+    <string name="tile_label_invert_colors">"வண்ணங்களை மாற்று"</string>
+</resources>

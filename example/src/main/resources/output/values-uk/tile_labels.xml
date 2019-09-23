@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Режим польоту"</string>
+    <string name="tile_label_data_saver">"Заощадження трафіку"</string>
+    <string name="tile_label_location">"Місцезнаходження"</string>
+    <string name="tile_label_hotspot">"Точка доступу"</string>
+    <string name="tile_label_location_off">"Місцезнаходження вимкнено"</string>
+    <string name="tile_label_battery_saver">"Режим енергозбереження"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Мобільний трафік"</string>
+    <string name="tile_label_invert_colors">"Інвертувати кольори"</string>
+</resources>

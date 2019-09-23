@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="tile_label_airplane_mode">"Təyyarə rejimi"</string>
+    <string name="tile_label_data_saver">"Data Qənaəti"</string>
+    <string name="tile_label_location">"Yer"</string>
+    <string name="tile_label_hotspot">"Hotspot"</string>
+    <string name="tile_label_location_off">"Yer Deaktiv"</string>
+    <string name="tile_label_battery_saver">"Enerji Qənaəti"</string>
+    <string name="tile_label_nfc">"NFC"</string>
+    <string name="tile_label_mobile_data">"Mobil data"</string>
+    <string name="tile_label_invert_colors">"Rəngləri çevirin"</string>
+</resources>
