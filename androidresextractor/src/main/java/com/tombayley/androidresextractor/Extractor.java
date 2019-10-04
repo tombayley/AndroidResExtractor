@@ -260,6 +260,8 @@ public class Extractor {
         out.write(("<?xml version=\"1.0\" encoding=\"" + ENCODING + "\"?>\n").getBytes(ENCODING));
 
         transformer.transform(source, result);
+
+        out.close();
     }
 
     /**
@@ -290,6 +292,9 @@ public class Extractor {
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(is);
         doc.getDocumentElement().normalize();
+
+        inputStream.close();
+        reader.close();
 
         return doc;
     }
