@@ -1,6 +1,8 @@
 # Android Res Extractor
 
 [![](https://jitpack.io/v/tombayley/AndroidResExtractor.svg)](https://jitpack.io/#tombayley/AndroidResExtractor)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/tombayley/AndroidResExtractor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tombayley/AndroidResExtractor/alerts/)
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/tombayley/AndroidResExtractor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tombayley/AndroidResExtractor/context:java)
 
 A library to filter and extract Android resources from all locales (only supports strings at this current time).
 
